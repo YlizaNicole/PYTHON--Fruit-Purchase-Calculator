@@ -11,14 +11,9 @@ def info():
    amount = app_ + ore_
    return amount, app, app_, ore, ore_
 
-
-    
-
 def display(totalm):
     print (f"the total amount is {totalm}")
     
-     
-
 
 #steps
 # ask how many apples and orange you want to buy with the price 20 pesos for the apples and 25 for orange
